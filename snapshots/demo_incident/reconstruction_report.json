@@ -1,0 +1,7 @@
+{
+  "trace_id": "TRC-2026-001",
+  "trigger_event_id": "EVT-1004",
+  "trigger_event_type": "emergency_brake_triggered",
+  "trigger_severity": "critical",
+  "event_count": 4
+}
